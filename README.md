@@ -1,3 +1,3 @@
 # Anoma-Bot-AutomationDaily
 
-![ScreenShot](Assets/anoma.png)
+![ScreenShot](Assets/anoma.jpg)
